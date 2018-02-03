@@ -3,19 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.tesji.registro.cesar;
+package com.tesji.registro.EduardoDos;
 
 /**
  *
- * @author UNDER
+ * @author edcastillo
  */
-public class Cesar {
+public class EduardoDos {
     private String nombre;
-    private String direccion;
-    private int telefono;
-    private int edad;
-    
-    
-    private String numCuenta;
-    private String carrera;
 }
