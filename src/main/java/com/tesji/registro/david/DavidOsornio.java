@@ -12,5 +12,9 @@ package com.tesji.registro.david;
 public class DavidOsornio {
      private int edad;
      private String nombre;
+     
+     private String consultar(){
+         return "Metodo por eduardo";
+     }
 
 }
