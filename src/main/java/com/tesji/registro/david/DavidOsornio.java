@@ -10,5 +10,7 @@ package com.tesji.registro.david;
  * @author djoso
  */
 public class DavidOsornio {
-    
+     private int edad;
+     private String nombre;
+
 }
